@@ -20,7 +20,7 @@ Database Backup App provides a simple PyQt5-based interface to back up an SQL Se
 1. Install the required dependencies:
 
     ```sh
-    pip install PyQt5 pyodbc
+    pip install -r requirements.txt
     ```
 
 2. Clone or download this repository.
